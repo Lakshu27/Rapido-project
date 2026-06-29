@@ -1,0 +1,23 @@
+# Environment / credentials
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models (large binary files)
+models/*.pkl
+
+# Database files
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
