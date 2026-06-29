@@ -1,5 +1,6 @@
 # Environment / credentials
 .env
+venv/
 
 # Python cache
 __pycache__/
